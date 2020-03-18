@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+TOKEN="aaaaaaaa-1111-2222-3333-ffffeeeeddd"
+HECURL="https://example.com/services/collector:8088"
+RANCIDFOLDER="/var/rancid/routers.all"
+
+export TOKEN HECURL RANCIDFOLDER
